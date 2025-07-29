@@ -60,12 +60,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lezh1n1208&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lezh1n1208&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
 ## ⏱️ WakaTime Stats
 
-<div align="left">
+<div align="center">
   <img src="https://wakatime.com/badge/user/6126e6bb-a5ef-4de3-bf34-61b4eef64d2c.svg" alt="WakaTime" />
 </div>
 
