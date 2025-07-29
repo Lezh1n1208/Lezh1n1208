@@ -65,7 +65,7 @@
 
 ## ⏱️ WakaTime Stats
 
-<div align="center">
+<div align="left">
   <img src="https://wakatime.com/badge/user/6126e6bb-a5ef-4de3-bf34-61b4eef64d2c.svg" alt="WakaTime" />
 </div>
 
