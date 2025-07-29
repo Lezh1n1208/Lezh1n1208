@@ -59,69 +59,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lezh1n1208&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lezh1n1208&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lezh1n1208&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lezh1n1208&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lezh1n&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Lezh1n1208&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lezh1n1208&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Lezh1n1208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lezh1n1208&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🅿️ [Parking Management System](https://github.com/PTIT-Parking)
-**Full-Stack Developer** | *Feb 2025 - May 2025*
-
-A comprehensive parking management solution with role-based access control for administrators and staff.
-
-**🔧 Tech Stack:**
-- **Backend**: Spring Boot, Spring Security, JWT, OAuth2, MySQL, Redis
-- **Frontend**: TypeScript, Next.js, TailwindCSS, Shadcn/ui
-- **DevOps**: Docker, Docker Compose
-
-**✨ Key Features:**
-- 🔐 JWT-based authentication & authorization
-- 📧 Password recovery via email service
-- 👥 Employee management system
-- 💰 Dynamic fare management
-- 📊 Revenue analytics & traffic monitoring
-- 🚗 Real-time vehicle tracking
-
-[![Frontend Repo](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PTIT-Parking/parking-management-ui)
-[![Backend Repo](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github)](https://github.com/PTIT-Parking/parking-management-backend)
-
----
-
-### 💬 [InstantChat Server](https://github.com/Instant-Chat-App/InstantChat-Server)
-**Backend Developer** | *Apr 2025 - Jun 2025*
-
-Backend server for a feature-rich real-time messaging application with advanced security.
-
-**🔧 Tech Stack:**
-- **Backend**: Node.js, Express.js, TypeORM, PostgreSQL, Redis
-- **Services**: Cloudinary (Image Upload), Twilio (SMS Auth)
-
-**✨ Key Features:**
-- 🔐 JWT authentication with refresh tokens
-- 📱 SMS-based password recovery via Twilio
-- 🖼️ Avatar upload with Cloudinary integration
-- 👤 Comprehensive user profile management
-- 🔄 Real-time messaging capabilities
-
-[![Repository](https://img.shields.io/badge/View-Repository-orange?style=for-the-badge&logo=github)](https://github.com/Instant-Chat-App/InstantChat-Server)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lezh1n1208&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ## 🎯 Expertise Areas
