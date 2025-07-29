@@ -66,11 +66,7 @@
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Lezh1n1208&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lezh1n1208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://wakatime.com/badge/user/6126e6bb-a5ef-4de3-bf34-61b4eef64d2c.svg" alt="WakaTime" />
 </div>
 
 <div align="center">
